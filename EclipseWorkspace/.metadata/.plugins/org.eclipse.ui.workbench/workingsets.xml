@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582741119662_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=Lover/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Music/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=OrderMeal/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_AjaxLogin/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_ConnectionMongoDB/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_HotelManagement/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_Login/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_Shoot/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_TestJspServlet/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_emp/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_emp1/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zr_example/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day11_Object/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day12_Scanner/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day12_String/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day13_Array/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day13_Character/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day13_Integer/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day13_StringBuffer/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_BigDecimal/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_BigInteger/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_Calendar/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_Date_DateFormat/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_Math/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_Random/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_Regex/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day14_System/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day15_Collection/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day15_List/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day15_ObjectArray/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day16_Generic/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day16_JDK5News/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day16_List_Son/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day16_List_Son_Test/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day17_Set_Son/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=day17_login_regist/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=web04/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FitnessRoomManagement/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582741119672_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589262349244_4" label="Java_Lrarn" name="Java_Lrarn">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_Math" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day16_Generic" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day11_Object" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_Calendar" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13_Array" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_System" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day16_JDK5News" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day16_List_Son" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_Random" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12_String" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13_Character" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day15_ObjectArray" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12_Scanner" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13_Integer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_Regex" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day17_login_regist" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_BigInteger" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13_StringBuffer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day15_Collection" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day15_List" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day17_Set_Son" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_BigDecimal" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day16_List_Son_Test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_Date_DateFormat" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589262405974_5" label="Zr" name="Zr">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_ConnectionMongoDB" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/FitnessRoomManagement" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_Shoot" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_emp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bms" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_AjaxLogin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_emp1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_Login" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_HotelManagement" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_example" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Zr_TestJspServlet" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1590485816293_6" label="中软" name="中软">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day01" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day02" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day04" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day05" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582741121122_2" label="Window Working Set" name="Aggregate for window 1582741121122"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1588388749875_3" label="Window Working Set" name="Aggregate for window 1588388749875"/>
+<mruList name="Zr"/>
+<mruList name="Java_Lrarn"/>
+<mruList name="中软"/>
+<mruList name="Java Main Sources"/>
+<mruList name="Java Test Sources"/>
+</workingSetManager>

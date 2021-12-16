@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;cn.it_&apos; to &apos;cn.it_06&apos;&#x0D;&#x0A;- Original project: &apos;StringBuffer&apos;&#x0D;&#x0A;- Original element: &apos;StringBuffer/src/cn.it_&apos;&#x0D;&#x0A;- Renamed element: &apos;StringBuffer/src/cn.it_06&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;cn.it_&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;cn.it_" name="cn.it_06" qualified="false" references="true" stamp="1584702438664" textual="false" version="1.0"/>
+</session>

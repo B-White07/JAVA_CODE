@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;cn.sut.nue&apos; to &apos;cn.sut.neu&apos;&#x0D;&#x0A;- Original project: &apos;Lover&apos;&#x0D;&#x0A;- Original element: &apos;Lover/src/cn.sut.nue&apos;&#x0D;&#x0A;- Renamed element: &apos;Lover/src/cn.sut.neu&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;cn.sut.nue&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;cn.sut.nue" name="cn.sut.neu" qualified="false" references="true" stamp="1584194957398" textual="false" version="1.0"/>
+</session>

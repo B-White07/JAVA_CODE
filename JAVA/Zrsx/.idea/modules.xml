@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20-io/20-io.iml" filepath="$PROJECT_DIR$/20-io/20-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-thread/21-thread.iml" filepath="$PROJECT_DIR$/21-thread/21-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-Collection/22-Collection.iml" filepath="$PROJECT_DIR$/22-Collection/22-Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-net/23-net.iml" filepath="$PROJECT_DIR$/23-net/23-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zrsx.iml" filepath="$PROJECT_DIR$/Zrsx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09/day09.iml" filepath="$PROJECT_DIR$/day09/day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decimals/decimals.iml" filepath="$PROJECT_DIR$/decimals/decimals.iml" />
+    </modules>
+  </component>
+</project>

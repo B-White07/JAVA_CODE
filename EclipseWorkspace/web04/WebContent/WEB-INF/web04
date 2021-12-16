@@ -1,0 +1,39 @@
+JSP
+	1.什么是JSP?
+		java官方制定的一种服务器动态页面生成技术规范。
+	2.为什么要使用servlet?
+		因为直接使用servlet生成动态页面过于繁琐(需要使用out.println输出)，并且不方便维护(比如，比如要修改页面，就必须修改java源码)
+		所以Java官方制订了这样一种动态页面生成技术JSP，在JSP文件里面，只需要在HTML内容里面添加少量的java代码，就可以实现动态页面
+	3.如何写一个JSP文件?
+		step1.写一个以.jsp为后缀的文件
+		step2.在该文件里面添加如下内容
+			a.html(CSS,javascript)：直接写
+			b.java代码
+				第一种形式：java代码片段  <%在这中间直接写java代码%>
+				第二种形式：jsp表达式  <%=java表达式%> 相当于out.println()
+			c.指令
+				什么是指令?
+					通知容器，在将.jsp文件转换成.java文件时，做一些额外的处理，指令一般会影响到.java文件的生成
+					指令的语法?
+						<%@指令名称 属性名=属性值%>
+							常用的指令：
+								<%@page import="java.util.*"%>
+								<%@page import="java.util.*,java.sql.*"%>
+								输出100次helloworld示例：
+								<%
+									for(int i=0;i<100;i++)
+										{
+								%>
+									hello world<br/>
+								<%} %>
+								
+需求：
+	1.创建user表，字段与html中的相一致
+	2.把addUser.html改成addUser.jsp
+	
+
+								
+								
+								
+								
+								

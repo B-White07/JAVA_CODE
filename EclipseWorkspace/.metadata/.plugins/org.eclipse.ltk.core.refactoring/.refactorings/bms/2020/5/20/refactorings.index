@@ -1,0 +1,11 @@
+1589469238081	Move 3 resources to 'WebContent'
+1589469241099	Move 'js' to 'WebContent'
+1589469242644	Move 'jsp' to 'WebContent'
+1589469247408	Move 'META-INF' to 'WebContent'
+1589469291196	Delete element
+1589469728369	Move 'css' to 'WebRoot'
+1589469730242	Move 'js' to 'WebRoot'
+1589469731833	Move 'jsp' to 'WebRoot'
+1589469733229	Move 'META-INF' to 'WebRoot'
+1589469734870	Move 'WEB-INF' to 'WebRoot'
+1589469738565	Move 'login.jsp' to 'WebRoot'

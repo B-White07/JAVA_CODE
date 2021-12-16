@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;web04&apos;&#x0D;&#x0A;- Original project: &apos;web04&apos;&#x0D;&#x0A;- Original element: &apos;web04/src/com.sun.org.apache.regexp.internal&apos;" description="Delete element" element1="/src&lt;com.sun.org.apache.regexp.internal" element2="/src&lt;com.sun.org.apache.regexp" element3="/src&lt;com.sun.org.apache" element4="/src&lt;com.sun.org" element5="/src&lt;com.sun" element6="/src&lt;com" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1589197952800" subPackages="false" version="1.0"/>
+</session>

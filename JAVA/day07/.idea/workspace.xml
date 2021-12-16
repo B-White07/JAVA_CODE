@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d9c61b8-e86c-481a-bd32-d7e7d8c26ed1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1co5RBjg2GudEhSh6MnFBGdXMZc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Application.VehicleTest">
+    <configuration name="AreaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icss_03.AreaTest" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.icss_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterUserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icss_02.InterUserTest" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.icss_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icss_05.NumTest" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.icss_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icss_04.PlayerTest" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.icss_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.icss_01.VehicleTest" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.icss_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VehicleTest" />
+        <item itemvalue="Application.InterUserTest" />
+        <item itemvalue="Application.AreaTest" />
+        <item itemvalue="Application.NumTest" />
+        <item itemvalue="Application.PlayerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d9c61b8-e86c-481a-bd32-d7e7d8c26ed1" name="Default Changelist" comment="" />
+      <created>1591182094960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591182094960</updated>
+      <workItem from="1591182098357" duration="9153000" />
+      <workItem from="1591236073526" duration="11217000" />
+      <workItem from="1591318208076" duration="2831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1591284138033">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1591284138033" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1591284497865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591284497865" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1591284497865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591284497865" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1591284497865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591284497865" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1591284497865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591284497865" />
+    <state width="1493" height="267" key="GridCell.Tab.1.bottom" timestamp="1591197609048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591197609048" />
+    <state width="1493" height="267" key="GridCell.Tab.1.center" timestamp="1591197609048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591197609048" />
+    <state width="1493" height="267" key="GridCell.Tab.1.left" timestamp="1591197609048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591197609048" />
+    <state width="1493" height="267" key="GridCell.Tab.1.right" timestamp="1591197609048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591197609048" />
+    <state x="270" y="74" key="SettingsEditor" timestamp="1591258283380">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591258283380" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1591318206493">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591318206493" />
+    <state x="279" y="35" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591193837865">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="35" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1591193837865" />
+    <state x="178" y="42" key="new project wizard" timestamp="1591344114074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1591344114074" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1591282181352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1591282181352" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/icss_01/HeroMan.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

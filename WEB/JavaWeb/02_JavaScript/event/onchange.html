@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function onchangeFun() {
+            alert("Are u sure?");
+        }
+
+        window.onload = function () {
+            //1.获取标签对象
+            var chose = document.getElementById("chose");
+            alert(chose);
+            //2.通过标签对象.事件名 = function(){}
+            chose.onchange = function () {
+                alert("你确定吗？")
+            }
+        }
+    </script>
+</head>
+<body>
+    <!-- 静态注册onchange事件 -->
+    请选择最喜欢的歌星：
+    <select onchange="onchangeFun();">
+        <option>---请选择---</option>
+        <option>周杰伦</option>
+        <option>林俊杰</option>
+        <option>陈奕迅</option>
+    </select>
+    <!-- 动态注册onchange事件 -->
+    请选择最喜欢的语言：
+    <select id="chose">
+        <option>---请选择---</option>
+        <option>Java</option>
+        <option>C</option>
+        <option>C#</option>
+    </select>
+</body>
+</html>

@@ -1,0 +1,10 @@
+public int compareTo(String anotherString) {
+        byte v1[] = value;
+        byte v2[] = anotherString.value;
+        if (coder() == anotherString.coder()) {
+            return isLatin1() ? StringLatin1.compareTo(v1, v2)
+                              : StringUTF16.compareTo(v1, v2);
+        }
+        return isLatin1() ? StringLatin1.compareToUTF16(v1, v2)
+                          : StringUTF16.compareToLatin1(v1, v2);
+     } 

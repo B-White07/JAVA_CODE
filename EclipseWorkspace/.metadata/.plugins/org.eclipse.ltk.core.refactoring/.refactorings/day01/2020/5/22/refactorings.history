@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sut.Basci&apos; to &apos;Basic&apos;&#x0D;&#x0A;- Original project: &apos;day01&apos;&#x0D;&#x0A;- Original element: &apos;sut.Basci&apos;&#x0D;&#x0A;- Renamed element: &apos;sut.Basic&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Basci&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sut{Basci.java[Basci" matchStrategy="1" name="Basic" qualified="false" references="true" similarDeclarations="false" stamp="1590486438056" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c3f41e-3dc4-4463-b28d-982620d1f24e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\DevelopmentTools\Maven\apache-maven-3.3.9-bin\apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\DevelopmentTools\Maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1loOvG59Wfwu5nAFZebd7wNBykT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-course" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lzw" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMybatis.testInsert">
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzw.MyApp" />
+      <module name="01_helloMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMybatis.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01_helloMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzw" />
+      <option name="MAIN_CLASS_NAME" value="com.lzw.TestMybatis" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyApp" />
+      <item itemvalue="JUnit.TestMybatis.testInsert" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMybatis.testInsert" />
+        <item itemvalue="Application.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c3f41e-3dc4-4463-b28d-982620d1f24e" name="Default Changelist" comment="" />
+      <created>1608260206853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608260206853</updated>
+      <workItem from="1608260207883" duration="16448000" />
+      <workItem from="1608286842583" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="322" key="#Assign_Data_Sources" timestamp="1608277422469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="662" y="322" key="#Assign_Data_Sources/0.0.1536.864@0.0.1536.864" timestamp="1608277422469" />
+    <state x="502" y="255" key="#Notifications" timestamp="1608276804678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="502" y="255" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1608276804678" />
+    <state x="249" y="7" key="#Project_Structure" timestamp="1608260267904">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1608260267904" />
+    <state x="234" y="288" key="#SQL_Resolution_Scopes" timestamp="1608277597633">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="234" y="288" key="#SQL_Resolution_Scopes/0.0.1536.864@0.0.1536.864" timestamp="1608277597633" />
+    <state x="361" y="91" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608286880136">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1608286880136" />
+    <state x="511" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1608260675652">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1608260675652" />
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1608281146976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1608281146976" />
+    <state x="255" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608260927195">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="255" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1608260927195" />
+    <state x="405" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1608260928575">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="405" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.864@0.0.1536.864" timestamp="1608260928575" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1608286886834">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608286886834" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1608286824373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608286824373" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1608286824372">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608286824372" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1608286824372">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608286824372" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1608286824373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608286824373" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1608286824373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608286824373" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1608286824373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1608286824373" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1608286824373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1608286824373" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1608286824373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1608286824373" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1608276689632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1608276689632" />
+    <state x="302" y="42" key="SettingsEditor" timestamp="1608286818008">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="302" y="42" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1608286818008" />
+    <state width="82" height="461" key="SqlResolveConfigurable" timestamp="1608277592254">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="82" height="461" key="SqlResolveConfigurable/0.0.1536.864@0.0.1536.864" timestamp="1608277592254" />
+    <state x="572" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1608277558377">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="572" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1608277558377" />
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608281150035">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1608281150035" />
+    <state x="178" y="42" key="new project wizard" timestamp="1608260260260">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1608260260260" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1608276924112">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608276924112" />
+  </component>
+</project>

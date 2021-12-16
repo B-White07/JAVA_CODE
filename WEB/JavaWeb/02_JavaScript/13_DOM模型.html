@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- DOM模型
+    全称  Document Object Model 文档对象模型
+    就是把文档中的标签、属性、文本转换成对象来管理
+
+    Document对象的理解：
+    1.  Document他管理了所有Html文档内容
+    2.  Document它是一种树结构的文档，有层级关系
+    3.  他让我们把所有的标签都对象化
+    4.  我们可以通过document访问所有的标签对象
+
+    Document对象中的方法介绍
+    document.getElementById(elementId)       通过标签的id属性查找标签dom对象，elementId是标签的id属性值
+    document.getElementsByName(elementName)   通过标签的name属性查找标签dom对象，elementName是标签的name属性值
+    document.getElementsByTagName(tagName)    通过标签名查找标签dom对象，tagName是标签名
+    document.createElement(tagName)          方法，通过给定的标签名，创建一个标签对象，tagName是要创建的标签名
+
+    注意：
+        document对象的三个查询方法，如果有id属性，优先使用getElementById方法
+        如果没有id属性，则优先使用getElementsByName，都没有再使用getElementsByTagName
+
+        以上三个方法，一定要在页面加载完成之后执行，才能查询到标签对象。
+-->
+</body>
+</html>

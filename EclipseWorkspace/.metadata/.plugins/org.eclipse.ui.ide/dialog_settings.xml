@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\day07\emp"/>
+			<item value="D:\DevelopmentTools\Tomcat\apache-tomcat-8.5.53-windows-x64\apache-tomcat-8.5.53\webapps\emp"/>
+			<item value="D:\DevelopmentTools\eclipse\EclipseWorkspace\Shoot"/>
+			<item value="D:\DevelopmentTools\eclipse\EclipseWorkspace\Shoot\src"/>
+			<item value="D:\RainyDay\Study\大数据\实训\Shoot"/>
+			<item value="D:\RainyDay\Study\大数据\实训\Shoot\src"/>
+			<item value="D:\RainyDay\Study\大数据\实训\Shoot\src\game"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\Shoot\src"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\day01\Shoot\src"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\day01\Shoot"/>
+			<item value="D:\RainyDay\java\java 资料\订餐系统\订餐系统\OrderMeal\src\com\java1234\dao"/>
+			<item value="D:\RainyDay\java\java 资料\订餐系统"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\寒假训练营文件夹\workspace001\web04"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Tools\Thunder Network\Download\javaweb-bms-master"/>
+			<item value="D:\RainyDay\Study\大数据\实训2\day02\class\HotelManagement"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\Zr_AjaxLogin"/>
+			<item value="C:\Users\B_White\Desktop\TestJspServlet (1)\TestJspServlet"/>
+			<item value="C:\Users\B_White\Desktop\emp"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\emp"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\day08\emp"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\寒假训练营文件夹\workspace001\web04"/>
+			<item value="D:\Tencent\QQ\QQ recevie\1240160064\FileRecv\day07\emp"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_WIDTH" value="581"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+	</section>
+</section>

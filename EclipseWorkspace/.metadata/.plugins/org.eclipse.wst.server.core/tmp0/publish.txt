@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat May 23 11:04:53 CST 2020
+org.eclipse.jst.jee.server\:FitnessRoomManagement=D\:\\DevelopmentTools\\Tomcat\\apache-tomcat-8.5.53-windows-x64\\apache-tomcat-8.5.53\\webapps\\FitnessRoomManagement
+org.eclipse.jst.jee.server\:Zr_emp=D\:\\DevelopmentTools\\Tomcat\\apache-tomcat-8.5.53-windows-x64\\apache-tomcat-8.5.53\\webapps\\Zr_emp
+org.eclipse.jst.jee.server\:bms=D\:\\DevelopmentTools\\Tomcat\\apache-tomcat-8.5.53-windows-x64\\apache-tomcat-8.5.53\\webapps\\bms

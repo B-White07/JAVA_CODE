@@ -1,0 +1,10 @@
+1588818515623	Delete element
+1588818591814	Delete element
+1588818611025	Delete element
+1588825812140	Rename package 'web'
+1588825831146	Rename type 'DateServlet'
+1588922506939	Copy compilation unit
+1588922704111	Delete element
+1588923033236	Move 'update.jsp' to 'WebContent'
+1588923044667	Move 'mysql-connector-java-8.0.19.jar' to 'lib'
+1589005280699	Move 'regist.jsp' to 'WebContent'

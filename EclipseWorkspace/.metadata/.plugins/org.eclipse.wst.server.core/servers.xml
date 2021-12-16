@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="46">
+    <list key="modules" value0="Zr_emp::org.eclipse.jst.jee.server:Zr_emp::jst.web::3.0" value1="FitnessRoomManagement::org.eclipse.jst.jee.server:FitnessRoomManagement::jst.web::3.1" value2="bms::org.eclipse.jst.jee.server:bms::jst.web::2.5"/>
+  </server>
+</servers>

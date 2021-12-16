@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>0-标签语法.html</title>
+    </head>
+<body>
+    <!-- ①标签不能交叉嵌套 -->
+        正确：<div><span>hello world</span></div>
+        错误：<div><span>hello world</div></span>
+    <hr/>
+
+    <!-- ②标签必须正确关闭（闭合） -->
+    <!-- i.有文本内容的标签： -->
+        正确：<div>hello Java</div>
+        错误：<div>hello Java
+    <hr/>
+
+    <!-- ii.没有文本内容的标签： -->
+        正确：1<br/>
+        错误：2<br>
+    <hr/>
+
+    <!-- ③属性必须由值，属性值必须有引号 -->
+        正确：<font color="blue">hello java</font>
+        错误：<font color=blue>hello java</font>
+        错误：<font color>hello java</font>
+    <hr/>
+
+    <!-- ④注释不能嵌套 -->
+        正确：<!-- 注释内容 --><br/>
+        错误：<!-- 注释内容<!-- 注释内容 -->-->
+    <hr/>
+</body>
+</html>

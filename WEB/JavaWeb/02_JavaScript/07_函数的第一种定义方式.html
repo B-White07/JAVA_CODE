@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        //定义一个无参函数
+        function fun() {
+            alert("无参函数fun()被调用了");
+        }
+        //函数调用才会执行
+        //fun();
+        function fun2(a,b) {
+            alert("有参函数fun2()被调用了 a=>" + a + ",b=>" + b);
+        }
+        //fun2(12,"abc");
+
+        //定义带有返回值的函数
+        function sum(num1,num2) {
+            var result = num1 + num2;
+            return result;
+        }
+        alert(sum(100,50));
+    </script>
+</head>
+<body>
+    <!-- 函数定义的两种方式
+            1：  function 函数名（形参列表）{
+                    函数体
+            }
+
+            在JavaScript语言中，如何定义带有返回值的函数？
+            只需要在函数体内使用return语句返回值即可！
+
+    -->
+</body>
+</html>

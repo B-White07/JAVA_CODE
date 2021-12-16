@@ -1,0 +1,29 @@
+Ctrl+Shift + Enter，语句完成。
+
+“！”，否定完成，输入表达式时按 “！”键。
+
+Ctrl+[ OR ]，可以跑到大括号的开头与结尾。
+
+Alt+Insert，可以生成构造器/Getter/Setter等。
+
+Ctrl+Alt+T，可以把代码包在一个块内，例如：try/catch。
+
+Alt+Enter，导入包，自动修正。
+
+Ctrl+Alt+L，格式化代码。
+
+Ctrl+Shift+Space，自动补全代码。
+
+Alt+Shift+Up/Down，上/下移一行。
+
+Ctrl+D，删除行。
+
+Ctrl+/或Ctrl+Shift+/，注释（//或者/**/）。
+
+Ctrl+J，自动代码（例如：serr）。
+
+Ctrl+Shift+Up/Down，向上/下移动语句。
+
+Ctrl+Shift+F8，查看断点。
+
+Shift+F6，重命名。

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function fun() {
+            //alert( arguments );
+            /*alert( arguments.length);
+            alert( arguments[0] );
+            alert( arguments[1] );
+            alert( arguments[2] );*/
+
+            for(var i = 0; i < arguments.length ;i++){
+                alert(arguments[i]);
+            }
+
+            alert("无参函数fun()");
+        }
+        //fun(1,"asd",true);
+
+        // 需求1： 编写一个函数，用于计算所有参数相加的和并返回
+        function sum(num1,num2){
+            var result = 0;
+            for(var i = 0;i < arguments.length; i++){
+                if(typeof (arguments[i]) == "number"){
+                    result += arguments[i];
+                }
+            }
+            return result;
+        }
+        alert(sum(1,5,3,"asd",9,7,));
+
+    </script>
+</head>
+<body>
+    <!--
+        函数的arguments隐形参数（只在function函数内）
+        就是function函数中不需要定义，但却可以直接用来获取所有参数的变量，我们管他叫隐形参数。
+        public void fun(Object ... args);
+        可变长参数其实是一个数组。
+        那么js中隐形参数也跟java中的可变长参数一样，操作类似数组。
+    -->
+</body>
+</html>

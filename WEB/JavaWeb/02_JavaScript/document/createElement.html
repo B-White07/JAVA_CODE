@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        window.onload = function () {
+            //  现在需要我们使用js代码来创建按html标签，并显示在页面上
+            //  标签内容就是：<div>js最后一节</div>
+            var divObj = document.createElement("div"); //在内存中<div></div>
+
+            var textNodeObj = document.createTextNode("js最后一节");   //一个文本节点对象 #js最后一节
+
+            divObj.appendChild(textNodeObj);   //<div>js最后一节</div>
+
+            //  divObj.innerHTML = "js最后一节";//<div>js最后一节</div> ，但还是在内存中
+            //  添加子元素
+            document.body.appendChild(divObj);
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

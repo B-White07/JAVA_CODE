@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javase_maven/javase_maven.iml" filepath="$PROJECT_DIR$/javase_maven/javase_maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Downloads/IDM Download/Used-Trading-Platform-master/sk.iml" filepath="$PROJECT_DIR$/../../../../../Downloads/IDM Download/Used-Trading-Platform-master/sk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_maven/web_maven.iml" filepath="$PROJECT_DIR$/web_maven/web_maven.iml" />
+    </modules>
+  </component>
+</project>
